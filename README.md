@@ -5,3 +5,4 @@
 #gaussian_blur: Adds blurring to randomly selected regions of images at a specified ratio.
 #mask_detect_save: Detects and saves masks from computed tomography (CT) images.
 #siu_gmmm: Generates a pixel-based anomaly map for anomaly detection in non-contrast computed tomography (CT) images, where anomalies are highlighted in red.
+NOTE: Don't forget to update the file paths according to your project directory.
